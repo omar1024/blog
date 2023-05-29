@@ -1,0 +1,82 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/blog/</id>
+  <title>Peanutbutter</title>
+  <subtitle>blog.</subtitle>
+  <updated>2023-05-29T14:37:51+05:30</updated>
+  <author>
+    <name>omar</name>
+    <uri>http://localhost:4000/blog/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/blog/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/blog/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 omar </rights>
+  <icon>/blog/assets/img/favicons/favicon.ico</icon>
+  <logo>/blog/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Indian Cappuccino</title>
+    <link href="http://localhost:4000/blog/posts/Cappucino/" rel="alternate" type="text/html" title="Indian Cappuccino" />
+    <published>2021-11-23T16:14:21+05:30</published>
+  
+    <updated>2021-11-23T16:14:21+05:30</updated>
+  
+    <id>http://localhost:4000/blog/posts/Cappucino/</id>
+    <content src="http://localhost:4000/blog/posts/Cappucino/" />
+    <author>
+      <name>omar</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      ‘Coffee is not a addiction, it’s a necessity’
+
+This post is just about how I make coffee, Perfected it for nearly 2 years staying home during pandemic lmao…
+So lets start ye
+
+
+  Ingredients
+
+
+
+  Coffee
+    
+      I prefer nescafe, I heard rage coffee is really good, but any coffee which doesn’t leave any residue would be fine
+
+    
+  
+  Milk
+  Sugar
+
+
+This has three stages
+
+
+  
+    Beat
+
+    
+ ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
